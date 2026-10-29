@@ -1,0 +1,6 @@
+pandas>=2.0
+numpy>=1.26
+scikit-learn>=1.4
+xgboost>=2.0
+matplotlib>=3.8
+pyspark>=3.5      # optional: only for src/run_spark_pipeline.py (needs Java 8/11/17)
